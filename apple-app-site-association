@@ -1,0 +1,13 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [{
+            "appID": "J665F6XCC5.com.petbanny.user",
+            "paths": ["/petbanny/*"]
+            },
+            {
+            "appID": "J665F6XCC5.com.petbanny.user",
+            "paths": ["*"]
+            }]
+    }
+}
